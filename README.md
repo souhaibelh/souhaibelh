@@ -107,8 +107,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 - Artificial Intelligence and machine learning fundamentals  
 
 ### 📬 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
 - Personal Email - souhaibhassouni0002@gmail.com
 - School Email - 61610@etu.he2b.be
 
