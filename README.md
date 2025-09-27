@@ -27,6 +27,7 @@ while keeping my solutions **scalable** and **modular**.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-336791?logo=oracle&logoColor=white" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
