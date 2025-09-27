@@ -105,3 +105,8 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 - Virtual machine implementation and hypervisor design  
 - In-depth computer and networking security  
 - Artificial Intelligence and machine learning fundamentals  
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-064492387/)
+- [Personal Email](mailto:souhaibhassouni0002@gmail.com)
+- [School Email](mailto:61610@etu.he2b.be)  
