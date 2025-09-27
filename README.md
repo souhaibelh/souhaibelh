@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Souhaib El Hassouni</h1>
 
 <p align="center">
-  Deep-diving into technology | Solving real-world problems | Creative thinker
+  Deep-diving into technology  |  Solving real-world problems  |  Creative thinker
 </p>
 
 ### 👨‍💻 About Me
