@@ -14,7 +14,7 @@ and designing frontend interfaces, to building full applications across differen
 and frameworks (including **Java**, **C++**, and more).  
 
 I love exploring the **fundamentals behind technology** and applying them to real-world problems,  
-while keeping my solutions **scalable** and **modular**.
+while keeping my solutions **scalable**, **modular**, and guided by **clean architecture** and **design patterns**.
 
 ### 🛠 Tech Stack
 
@@ -99,3 +99,9 @@ while keeping my solutions **scalable** and **modular**.
   <img src="https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=black" alt="WebStorm"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
+
+### 📚 Currently Learning  
+- Modern mobile UI frameworks like Jetpack Compose  
+- Virtual machine implementation and hypervisor design  
+- In-depth computer and networking security  
+- Artificial Intelligence and machine learning fundamentals  
