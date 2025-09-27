@@ -16,8 +16,10 @@ and frameworks (including **Java**, **C++**, and more).
 I love exploring the **fundamentals behind technology** and applying them to real-world problems,  
 while keeping my solutions **scalable** and **modular**.
 
-### 🛠 Tech Stack  
-<p align="center">
+### 🛠 Tech Stack
+
+#### Programming Languages
+<p align="left">
   <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"/>
