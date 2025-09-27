@@ -112,6 +112,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
   <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  -
   <code>souhaib-el-hassouni-amyay</code>
 </p>
 
@@ -119,6 +120,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
   <a href="mailto:souhaibhassouni0002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  -
   <code>souhaibhassouni0002@gmail.com</code>
 </p>
 
@@ -126,6 +128,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
   <a href="mailto:61610@etu.he2b.be">
     <img src="https://img.shields.io/badge/School%20Email-4285F4?style=flat-square&logo=google&logoColor=white"/>
   </a>
+  -
   <code>61610@etu.he2b.be</code>
 </p>
 
