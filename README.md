@@ -110,12 +110,12 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:souhaibhassouni0002@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=social&logo=gmail&logoColor=white" alt="Personal Email"/>
   </a>
   <a href="mailto:61610@etu.he2b.be">
-    <img src="https://img.shields.io/badge/School%20Email-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="School Email"/>
+    <img src="https://img.shields.io/badge/School%20Email-4285F4?style=social&logo=google&logoColor=white" alt="School Email"/>
   </a>
 </p>
