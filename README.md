@@ -108,6 +108,8 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 
 ### 📬 Connect with Me  
 
+[LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/){:target="_blank"}
+
 <p align="left">
   <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
