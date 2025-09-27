@@ -86,7 +86,9 @@ while keeping my solutions **scalable** and **modular**.
 #### Build Tools & Testing  
 <p align="left">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logoColor=white" alt="Mockito"/>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
 </p>
 
