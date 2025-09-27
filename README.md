@@ -109,21 +109,21 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 ### 📬 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/">
+  <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>  
+  </a>
 </p>
 
 <p align="left">
-  <a href="mailto:souhaibhassouni0002@gmail.com">
+  <a href="mailto:souhaibhassouni0002@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>  
-  (souhaibhassouni0002@gmail.com)
+  <span>souhaibhassouni0002@gmail.com 📋</span>
 </p>
 
 <p align="left">
-  <a href="mailto:61610@etu.he2b.be">
+  <a href="mailto:61610@etu.he2b.be" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/School%20Email-4285F4?style=flat-square&logo=google&logoColor=white"/>
   </a>  
-  (61610@etu.he2b.be)
+  <span>61610@etu.he2b.be 📋</span>
 </p>
