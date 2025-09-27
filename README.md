@@ -20,7 +20,7 @@ while keeping my solutions **scalable** and **modular**.
 
 #### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"/>
