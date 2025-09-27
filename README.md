@@ -108,7 +108,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 
 ### 📬 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
-- [![LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)]()
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
 - Personal Email - souhaibhassouni0002@gmail.com
 - School Email - 61610@etu.he2b.be
 
