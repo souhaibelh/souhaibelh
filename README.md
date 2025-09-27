@@ -109,7 +109,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 ### 📬 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/souhaib-el-hassouni-064492387/">
+  <a href="[https://www.linkedin.com/in/souhaib-el-hassouni-064492387/](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:souhaibhassouni0002@gmail.com">
