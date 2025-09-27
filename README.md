@@ -110,12 +110,21 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>  
+  souhaib-el-hassouni-amyay
+</p>
+
+<p align="left">
   <a href="mailto:souhaibhassouni0002@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=social&logo=gmail&logoColor=white" alt="Personal Email"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>  
+  souhaibhassouni0002@gmail.com
+</p>
+
+<p align="left">
   <a href="mailto:61610@etu.he2b.be">
-    <img src="https://img.shields.io/badge/School%20Email-4285F4?style=social&logo=google&logoColor=white" alt="School Email"/>
-  </a>
+    <img src="https://img.shields.io/badge/School%20Email-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  </a>  
+  61610@etu.he2b.be
 </p>
