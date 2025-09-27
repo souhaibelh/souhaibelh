@@ -106,7 +106,17 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 - In-depth computer and networking security  
 - Artificial Intelligence and machine learning fundamentals  
 
-### 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/souhaib-el-hassouni-064492387/)
-- [Personal Email](mailto:souhaibhassouni0002@gmail.com)
-- [School Email](mailto:61610@etu.he2b.be)  
+### 📬 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/souhaib-el-hassouni-064492387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:souhaibhassouni0002@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  <a href="mailto:61610@etu.he2b.be">
+    <img src="https://img.shields.io/badge/School%20Email-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="School Email"/>
+  </a>
+</p>
+
