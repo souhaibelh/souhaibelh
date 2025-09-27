@@ -9,7 +9,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I’m passionate about **software development in all its forms** — from writing backend logic  
+I’m passionate about **software development in all its forms**, from writing backend logic  
 and designing frontend interfaces, to building full applications across different languages  
 and frameworks (including **Java**, **C++**, and more).  
 
