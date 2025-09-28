@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Souhaib El Hassouni Amyay</h1>
 
 <p align="center">
-  Deep-diving into technology  •  Solving real-world problems  •  Creative thinker
+  Deep-diving into technology  •  Solving real-world problems  •  Creative and Critical thinker
 </p>
 
 ### About Me
@@ -15,6 +15,9 @@ and frameworks (including **Java**, **C++**, and more).
 
 I love exploring the **fundamentals behind technology** and applying them to real-world problems,  
 while keeping my solutions **scalable**, **modular**, and guided by **clean architecture** and **design patterns**.
+
+💼 Currently seeking a **4–6 month internship** in backend, frontend, or software development.  
+🌍 Open to relocation across Europe (EU citizen).
 
 ### Tech Stack
 
