@@ -8,7 +8,7 @@
   Deep-diving into technology  •  Solving real-world problems  •  Creative thinker
 </p>
 
-### 👨‍💻 About Me
+### About Me
 I’m passionate about **software development in all its forms**, from writing backend logic  
 and designing frontend interfaces, to building full applications across different languages  
 and frameworks (including **Java**, **C++**, and more).  
@@ -16,7 +16,7 @@ and frameworks (including **Java**, **C++**, and more).
 I love exploring the **fundamentals behind technology** and applying them to real-world problems,  
 while keeping my solutions **scalable**, **modular**, and guided by **clean architecture** and **design patterns**.
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Programming Languages
 <p align="left">
@@ -100,13 +100,13 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
 
-### 📚 Currently Learning  
+### Currently Learning  
 - Modern mobile UI frameworks like Jetpack Compose  
 - Virtual machine implementation and hypervisor design  
 - In-depth computer and networking security  
 - Artificial Intelligence and machine learning fundamentals  
 
-### 📬 Connect with Me  
+### Connect with Me  
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
 - ![Personal Email](https://img.shields.io/badge/Personal%20Email-D14836?logo=gmail&logoColor=white) - souhaibhassouni0002@gmail.com
 - ![School Email](https://img.shields.io/badge/School%20Email-D14836?logo=gmail&logoColor=white) - 61610@etu.he2b.be
