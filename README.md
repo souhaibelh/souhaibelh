@@ -108,7 +108,7 @@ while keeping my solutions **scalable**, **modular**, and guided by **clean arch
 - Virtual machine implementation and hypervisor design  
 - In-depth computer and networking security  
 - Artificial Intelligence and machine learning fundamentals
-- Gitlab Actions for CI/CD
+- Github Actions for CI/CD
 
 ### Connect with Me  
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/souhaib-el-hassouni-amyay-064492387/)
